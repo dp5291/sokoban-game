@@ -1,0 +1,5 @@
+*.o
+*.a
+Sokoban
+test
+.vscode
