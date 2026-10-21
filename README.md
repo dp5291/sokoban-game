@@ -21,4 +21,4 @@ make
 ```
 
 ## Screenshots
-![Sokoban Game](sokoban_gameplay.png)
+![Sokoban Game](screenshot.png)
